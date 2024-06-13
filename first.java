@@ -1,8 +1,3 @@
+removed everything from bug1
+and edited the file and did changes in master
 
-this is my first java program...!!!!
- adding second line of code like this
-
- kabbadi kabbadi kabaddi
-3rd line 3rd line yes itis a third line`
-
-this one added in master branch
